@@ -78,14 +78,19 @@ Each section of the resume is implemented as a dedicated Airflow task. Professio
 
 ## Screenshots
 
+
 ### Airflow DAG Graph View
-![Airflow DAG Graph](https://github.com/Pardhasaradhigupta/airflow-resume-dag/blob/main/screenshots/DAG_Graph.jpeg)
+![Airflow DAG Graph](screenshots/DAG_Graph.jpeg)
 
 ### Task Log Output
-![Airflow Task Logs]((https://github.com/Pardhasaradhigupta/airflow-resume-dag/blob/main/screenshots/Logs_1.jpeg)
-https://github.com/Pardhasaradhigupta/airflow-resume-dag/blob/main/screenshots/Logs_2.jpeg ,
-https://github.com/Pardhasaradhigupta/airflow-resume-dag/blob/main/screenshots/Logs_3.jpeg,
-https://github.com/Pardhasaradhigupta/airflow-resume-dag/blob/main/screenshots/Logs_24.jpeg)
+
+![Task Log 1](screenshots/Logs_1.jpeg)
+
+![Task Log 2](screenshots/Logs_2.jpeg)
+
+![Task Log 3](screenshots/Logs_3.jpeg)
+
+![Task Log 4](screenshots/Logs_4.jpeg)
 
 ---
 
